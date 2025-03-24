@@ -3,6 +3,6 @@ server:
 
 info:
   app:
-    name: "Food Service"
+    name: "Food Service."
     description: "This is Food Service git version"
     version: "1.0 Under Development"
